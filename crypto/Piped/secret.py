@@ -1,0 +1,1 @@
+THEFLAG = b'ISITDTU{Wh47_a_c00l_5h4pe_y0u_ju57_l34rn3d}'

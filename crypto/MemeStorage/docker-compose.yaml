@@ -1,0 +1,9 @@
+services:
+  chall2:
+    build: ./
+    env_file:
+      - private/.env
+    # volumes:
+    #   - ./src:/app
+    ports:
+      - "5002:1337"

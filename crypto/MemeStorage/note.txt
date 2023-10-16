@@ -1,0 +1,3 @@
++ Description is in file description.txt.
++ Attachments are in folder publish 
++ Flag in folder private
